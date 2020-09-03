@@ -1,0 +1,24 @@
+{
+  "name": "flex-commands",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregorysobotka/flex-commands.git"
+  },
+  "author": "Gregory Sobotka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gregorysobotka/flex-commands/issues"
+  },
+  "homepage": "https://github.com/gregorysobotka/flex-commands#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clipboardy": "^2.3.0",
+    "commander": "^6.1.0"
+  }
+}
